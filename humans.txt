@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Antoine QUetin frfr@frf.fr
 
 # THANKS
 
