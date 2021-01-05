@@ -17,4 +17,4 @@ PLease fork
 
 ### Copyright
 
-2021 Copyright
+2021 Copyright All Rights Free
