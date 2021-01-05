@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 ## Deployment 2
 
+Fat depoyment 
 
 ## How to Contribute
 PLease fork 
